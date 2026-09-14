@@ -1,0 +1,19 @@
+# Core
+pandas
+pyarrow
+numpy
+scikit-learn
+joblib
+
+# Text embeddings / topics
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+
+# LLM structured coding
+openai
+pydantic
+
+# Causal ML
+doubleml

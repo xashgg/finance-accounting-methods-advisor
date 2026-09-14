@@ -1,5 +1,7 @@
 # Finance & Accounting Methods Advisor
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex skill for designing, validating, implementing, and auditing machine-learning, NLP, embedding, LLM, and causal-ML methods in academic finance and accounting research.
 
 ## What this skill is for
@@ -25,6 +27,7 @@ This skill is **not** intended primarily for summarizing individual papers. Use 
 finance-accounting-methods-advisor/
 ├── SKILL.md
 ├── README.md
+├── README.zh-CN.md
 ├── AGENTS.md
 ├── references/
 │   ├── Finance_Accounting_ML_LLM_Methods_Handbook.md

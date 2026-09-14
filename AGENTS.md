@@ -14,7 +14,8 @@ templates, starter Python pipelines, and behavior-focused evaluation cases.
   rather than inventing sample sizes, validation results, or model performance.
 - `scripts/` contains conservative starter pipelines, not turnkey research designs.
 - `evals/evaluation-cases.md` defines expected behavior and regression checks.
-- `README.md` is the human-facing installation and usage overview.
+- `README.md` and `README.zh-CN.md` are synchronized English and Simplified
+  Chinese installation and usage overviews.
 
 ## Maintenance rules
 
@@ -28,8 +29,8 @@ templates, starter Python pipelines, and behavior-focused evaluation cases.
 - Keep `SKILL.md` compact. Put detailed explanations in the relevant reference and
   route to them from the skill.
 - When adding or renaming a reference, template, script, or eval, update the file
-  maps and routing tables in `SKILL.md`, `README.md`, and the relevant subdirectory
-  guide in the same change.
+  maps and routing tables in `SKILL.md`, both README files, and the relevant
+  subdirectory guide in the same change.
 - Do not hard-code current package behavior without checking official documentation.
 - Do not add dependencies unless the methodological benefit justifies them; update
   `scripts/requirements-starter.txt` and `scripts/scripts-README.md` together.
